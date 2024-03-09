@@ -8,15 +8,21 @@ Developing visualizations and dashboards to address specific questions and provi
 *Data Model
 The data model consists of:
 -Fact Table: Contains sales transactions data with key metrics such as order date, product ID, quantity sold, etc.
+
 -Dimension Tables: Include tables for various dimensions such as product, customer, date, etc.
+
 -Order Date Table: A dimension table specifically created for order dates to facilitate time-based analysis.
 
 *Measures and KPIs
 DAX measures and KPIs are created to perform calculations and analyze the data effectively. These include but are not limited to:
 -Total Sales
+
 -Average Discount
+
 -Max Discount
+
 -Profit Margin %
+
 -Total Quantity
 
 *Pages and Visualizations
